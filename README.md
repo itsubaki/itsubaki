@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![itsubaki's github stats](https://github-readme-stats.vercel.app/api?username=itsubaki&count_private=true&show_icons=true&theme=react)
+![itsubaki's github stats](https://github-readme-stats.vercel.app/api?username=itsubaki&count_private=true&show_icons=true&include_all_commits=true&theme=react)
 <!--
 ![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsubaki&theme=react)
 -->
